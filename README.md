@@ -2,7 +2,7 @@
 
 Libra-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
 
-Berbasis [Paperplane](https://github.com/Hanyauserbiasa/Telegram-UserBot) dan [ProjectBish](https://github.com/Libra/ProjectBish) userbot.
+Berbasis [Paperplane](https://github.comLibra-gbt/Telegram-UserBot) dan [ProjectBish](https://github.com/Libra/ProjectBish) userbot.
 Saya membuat repository ini untuk memilih dan menambahkan beberapa modul yang saya butuhkan dengan banyak perubahan, fitur dan modul.
 
 ## Disclaimer
@@ -32,7 +32,7 @@ Follow Channel [@afabolaofficialgrup0de](https://t.me/Hanyauserbiasa) untuk info
 
 ## Â© Credits
 #### Thanks To [Everyone](https://github.com/Hanyauserbiasa/Libra-Userbot/graphs/contributors) Who Has Helped Make This Userbot Awesome!
-*   [Hanyauserbisa](https://github.com/Libra-gbt) : ProjectBish
+*   [https://t.me/Hanyauserbiasa](https://github.com/Libra-gbt) : ProjectBish
 
 ## License
-Licensed under [hanyauserbiasa Public License](https://github.com/Libra-gbt/Libra-Userbot/blob/Libra-Userbot/LICENSE) - Version 1.d, February 2020
+Licensed under [https://t.me/Hanyauserbiasa Public License](https://github.com/Libra-gbt/Libra-Userbot/blob/Libra-Userbot/LICENSE) - Version 1.d, February 2020
